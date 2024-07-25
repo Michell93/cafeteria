@@ -24,8 +24,8 @@ Depois, abra o projeto no seu navegador.
 
 ## 📚 Mais informações
 
-O Meteora é uma empresa fictícia utilizada para aperfeiçoar as habilidades.
-A ideia principal desse projeto é evoluir ainda mais os conhecimentos em HTML e CSS e principalmente focado em bootstrap.
+O Serenatto é uma empresa fictícia utilizada para aperfeiçoar as habilidades.
+A ideia principal desse projeto é evoluir ainda mais os conhecimentos além de HTML e CSS,mas principalmente focado em javascript e bootstrap.
 
 ## VERCEL 
 https://cafeteria-alpha-brown.vercel.app/#
